@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "tmdb": "^2.6.0"
+  }
+}
